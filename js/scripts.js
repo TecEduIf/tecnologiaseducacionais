@@ -1,7 +1,6 @@
 
 //Contador de acessos
-<a href="https://www.webcontadores.com" title="contador de visitas tumblr">
-<img src="https://counter6.optistats.ovh/private/webcontadores.php?c=eqj31g1e5cgrt7fby2575h6k8hz26y6r" border="0" title="contador de visitas tumblr" alt="contador de visitas tumblr"></a>
+<img src="https://counter6.optistats.ovh/private/webcontadores.php?c=eqj31g1e5cgrt7fby2575h6k8hz26y6r" border="0" title="" alt=""></a>
 
 /*!
 * Start Bootstrap - Modern Business v5.0.6 (https://startbootstrap.com/template-overviews/modern-business)

@@ -54,5 +54,6 @@
     }
 })();
 
-
-<a href="" title=""><img src="https://counter6.optistats.ovh/private/webcontadores.php?c=e19ylajp9wbw8q9pq7exqarynyp62n4e" border="0" title="" alt=""></a>
+(function () {
+    <a href="" title=""><img src="https://counter6.optistats.ovh/private/webcontadores.php?c=e19ylajp9wbw8q9pq7exqarynyp62n4e" border="0" title="" alt=""></a>
+})();

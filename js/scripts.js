@@ -1,7 +1,3 @@
-
-//Contador de acessos
-<a href="" title=""><img src="https://counter6.optistats.ovh/private/webcontadores.php?c=e19ylajp9wbw8q9pq7exqarynyp62n4e" border="0" title="" alt=""></a>
-
 /*!
 * Start Bootstrap - Modern Business v5.0.6 (https://startbootstrap.com/template-overviews/modern-business)
 * Copyright 2013-2022 Start Bootstrap
@@ -57,3 +53,6 @@
         this.setState(!this.currentState);
     }
 })();
+
+
+<a href="" title=""><img src="https://counter6.optistats.ovh/private/webcontadores.php?c=e19ylajp9wbw8q9pq7exqarynyp62n4e" border="0" title="" alt=""></a>
